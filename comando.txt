@@ -1,0 +1,4 @@
+pyinstaller -F -w ^
+  --add-data "templates;templates" ^
+  --add-data "static;static" ^
+  app.py
