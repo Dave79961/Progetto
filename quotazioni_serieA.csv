@@ -1,0 +1,9 @@
+Nome;Ruolo;Squadra;Lega;Prezzo;CostoOfferta;Eta;ExpectedBonus;ExpectedMalus;ChancesCreated;AssistRate
+Maignan;P;Milan;Serie A;28;28;26;0.2;0.3;0.0;0.0
+Di Lorenzo;D;Napoli;Serie A;22;22;30;0.8;0.2;0.0;0.0
+Dimarco;D;Inter;Serie A;30;30;27;1.4;0.2;0.0;0.0
+Pulisic;C;Milan;Serie A;31;31;27;1.5;0.2;0.0;0.0
+Zaccagni;C;Lazio;Serie A;26;26;29;1.2;0.18;0.0;0.0
+Lautaro;A;Inter;Serie A;58;58;28;2.3;0.15;0.0;0.0
+Lookman;A;Atalanta;Serie A;41;41;28;1.8;0.2;0.0;0.0
+Gudmundsson;A;Fiorentina;Serie A;25;25;29;1.4;0.22;0.0;0.0
