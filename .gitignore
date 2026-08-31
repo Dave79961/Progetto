@@ -1,0 +1,16 @@
+# Python
+backend/.venv/
+backend/venv/
+__pycache__/
+*.pyc
+
+# Node.js / React / Vite
+frontend/node_modules/
+frontend/dist/
+
+# Configurazioni private
+.env
+.env.*
+
+# Visual Studio
+.vs/

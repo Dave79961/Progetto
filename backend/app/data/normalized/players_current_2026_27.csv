@@ -1,0 +1,529 @@
+﻿stagione,player_id,nome,squadra,ruolo,ruolo_originale,presenze,media_voto,fantamedia,gol_fatti,gol_subiti,rigori_segnati,rigori_sbagliati,assist,ammonizioni,espulsioni,autogol,disponibile_serie_a,stato_dato,file_origine
+2026/27,5841,Svilar,Roma,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5116,Martinez Jo.,Inter,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4431,Carne ecchi,Atalanta,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6966,Butez,Como,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4964,Vicario,Juventu,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4312,Maignan,Milan,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,2521,De Gea,Fiorentina,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,572,Meret,Napoli,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,133,Skorup ki,Bologna,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4360,Caprile,Cagliari,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5876,Di Gregorio,Juventu,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6482,Manda,Lazio,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6462,Okoye,Udine e,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7332,Bijlow,Genoa,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,2134,Falcone,Lecce,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7411,Daffara,Parma,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6641,Suzuki,Parma,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4236,Muric,Sa uolo,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,218,Perin,Juventu,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6248,Stankovic F.,Venezia,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4485,Thiam,Monza,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,2170,Milinkovic-Savic V.,Napoli,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6415,Palmi ani,Fro inone,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7463,De planche,Fro inone,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,2814,Provedel,Inter,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,2297,Ro i F.,Atalanta,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4,Sportiello,Atalanta,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7533,Happonen,Bologna,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7172,Pe ina Ma .,Bologna,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4929,Ciocci,Cagliari,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6650,Sherri,Cagliari,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7301,Tornqvi t,Como,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,2809,Vigorito,Como,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6403,Chri ten en O.,Fiorentina,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,158,Lezzerini,Fiorentina,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7466,Lolic,Fro inone,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,219,Sommariva,Genoa,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6569,Stolz,Genoa,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,1926,Di Gennaro,Inter,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,1930,Pin oglio,Juventu,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7337,Motta,Lazio,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7534,Renzetti,Lazio,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,2401,Fruchtl,Lecce,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6523,Samooja,Lecce,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,2815,Terracciano,Milan,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6813,Torriani,Milan,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6682,Pizzignacco,Monza,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7475,Strajnar,Monza,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,2845,Contini,Napoli,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6662,Corvi,Parma,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7048,De Marzi,Roma,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,610,Gollini,Roma,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4518,Ru o A.,Sa uolo,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4867,Turati,Sa uolo,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7457,Ma cardi,Torino,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5320,Paleari,Torino,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7363,Siviero,Torino,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,543,Padelli,Udine e,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5707,Piana,Udine e,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6671,Grandi,Venezia,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7531,Pozzi,Venezia,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7545,Vi mara,Atalanta,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,2127,Satalino,Sa uolo,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7557,Penev,Lecce,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7560,Pi eri,Fro inone,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,3,Radunovic,Cagliari,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4957,Montipò,Venezia,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4468,Bleve,Lecce,P,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,254,Dimarco,Inter,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4998,Molina N.,Roma,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7181,We ley,Roma,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4159,Akanji,Inter,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,2788,Bremer,Juventu,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,2296,Mancini,Roma,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,2120,Ba toni,Inter,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5022,Pavlovic,Milan,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4409,Rrahmani,Napoli,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4976,Kalulu,Juventu,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4317,N'Dicka,Roma,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6956,Solet,Udine e,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,2514,Stone,Inter,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5833,Gila,Milan,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,2816,Di Lorenzo,Napoli,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5982,Spence,Inter,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5750,O tigard,Genoa,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6217,Bi eck,Inter,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5526,Scalvini,Atalanta,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6869,Ramon,Como,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5885,Dodò,Fiorentina,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4807,Hermo o,Roma,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5514,Va quez,Genoa,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5520,Cambia o,Juventu,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5641,Chalobah T.,Como,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6046,Hien,Atalanta,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,554,Zappaco ta,Atalanta,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6042,Lucumì,Juventu,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4734,Miranda J.,Bologna,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4210,Mina,Cagliari,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5365,Dragu in,Fiorentina,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6531,Jimenez A.,Fiorentina,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6814,Norton-Cuffy,Genoa,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4657,Celik,Juventu,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6496,Barte aghi,Milan,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5427,Gutierrez,Napoli,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,1852,Spinazzola,Napoli,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6664,Delprato,Parma,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5862,Valeri,Parma,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7529,Koulieraki,Roma,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4994,Vojvoda,Udine e,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6727,Couto,Como,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,787,Djim iti,Atalanta,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5701,Obert,Cagliari,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7414,Kaiki,Como,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5877,Carlo  Augu to,Inter,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6320,Doekhi,Lazio,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,460,Romagnoli,Lazio,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6989,Tiago Gabriel,Lecce,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4401,Gabbia,Milan,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4751,Tomori,Milan,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,2724,Buongiorno,Napoli,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6672,Idze,Sa uolo,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6642,Coco,Torino,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5010,I majli,Torino,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6485,Kri ten en T.,Atalanta,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6916,Ahanor,Atalanta,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4887,Bellanova,Atalanta,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7219,Berna coni,Atalanta,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7212,Heggem,Bologna,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4433,Zortea,Bologna,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6867,Valle,Como,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7294,Valdepena,Fiorentina,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7410,Viery,Fiorentina,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4952,Monteri i,Fro inone,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6660,Marcandalli,Genoa,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4177,Pavard,Inter,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5620,Tavare  N.,Lazio,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,2188,Maru ic,Lazio,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4502,Gallo,Lecce,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7485,Manga,Monza,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6202,Beukema,Napoli,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6663,Circati,Parma,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6495,Comuzzo,Torino,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5555,Kamara H.,Udine e,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7253,Bella-Kotchap,Venezia,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7329,Obrador,Sa uolo,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,2640,Kola inac,Atalanta,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7068,Vitik,Bologna,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5678,Holm,Bologna,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7532,Kofler,Cagliari,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7274,Zè Pedro,Cagliari,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6893,Kempf,Como,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5449,Pari i,Fiorentina,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7469,Bracaglia,Fro inone,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6238,Oyono A.,Fro inone,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,2593,Martin,Genoa,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6766,Kelly L.,Juventu,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4817,Pedraza,Lazio,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6632,Ga par K.,Lecce,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6990,Veiga D.,Lecce,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5840,Olivera,Napoli,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6986,Ren ch,Roma,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6426,Peder en,Torino,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6890,Moreno M.,Venezia,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5695,Hap,Venezia,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4461,Zappa,Cagliari,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7014,Smolcic I.,Como,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5603,Pongracic,Fiorentina,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7467,Calvani,Fro inone,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7537,Mitaj,Genoa,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5831,Gatti,Juventu,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7240,Siebert,Lecce,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,2115,Delli Carri,Monza,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6659,Lucche i,Monza,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5838,Birindelli,Monza,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5307,Valenti,Parma,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6631,Ghilardi,Roma,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4374,Walukiewicz,Sa uolo,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5851,Doig,Sa uolo,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7526,Comert,Torino,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4263,Kaba ele,Udine e,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5820,Bertola,Udine e,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5527,Zanoli,Udine e,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7312,Arizala,Udine e,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7538,Halhal,Venezia,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4845,Correia T.,Venezia,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4375,Terzic,Fro inone,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7563,Fava uli,Napoli,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5578,Ko ounou,Atalanta,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5498,Ca ale,Bologna,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7268,Rodriguez Ju.,Cagliari,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7125,Idri i R.,Cagliari,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4378,Ranieri L.,Fiorentina,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7175,Joao Mario,Fiorentina,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7540,Akpoguma,Fro inone,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5757,Cittadini,Fro inone,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7012,Prov tgaard,Lazio,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7131,Floriani Mu olini,Lazio,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5739,De Winter,Milan,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7211,Athekame,Milan,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5273,E tupinan,Milan,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7238,Kouadio,Monza,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4925,Carboni A.,Monza,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7235,Troilo,Parma,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7255,Brit chgi,Parma,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4772,Angelino,Roma,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6985,Candè,Sa uolo,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6892,Schingtienne,Venezia,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6673,Sverko,Venezia,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6821,Hainaut,Venezia,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7326,Helland,Bologna,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7483,Alha ane,Bologna,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6896,Van Der Brempt,Como,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6977,Otoa,Genoa,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7413,Puczka,Genoa,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,791,Sabelli,Genoa,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,2263,Lazzari,Lazio,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,2728,Pellegrini Lu.,Lazio,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6883,Jean,Lecce,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7525,Diawara S.,Milan,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6638,Marin R.,Napoli,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,252,Biraghi,Torino,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6925,Palma,Udine e,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5994,Ebo e,Udine e,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7478,Franjic,Venezia,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6681,Sagrado,Venezia,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7548,Aurelio,Cagliari,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,487,De Silve tri,Bologna,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7346,Raterink,Cagliari,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,418,Goldaniga,Como,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7407,Cuenca A.,Como,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5424,Amey,Fro inone,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7468,Gelli J.,Fro inone,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7470,Oyono J.,Fro inone,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7471,Corrado,Fro inone,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6245,Vogliacco,Genoa,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6244,Matturro,Genoa,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,294,Rugani,Juventu,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6039,Cabal,Juventu,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,327,Patric,Lazio,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7164,Perez M.,Lecce,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7182,Ndaba,Lecce,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5399,Antov,Monza,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7476,Bakoune,Monza,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6809,Marianucci,Napoli,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5481,Mazzocchi,Napoli,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7202,Ndiaye,Parma,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6149,Carboni F.,Parma,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7260,Ziolkow ki,Roma,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6189,Mi ori,Sa uolo,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7156,Pieragnolo,Sa uolo,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7356,Mlacic,Udine e,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6021,Abankwah,Udine e,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7454,Gome,Venezia,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7553,Omar Fayed,Fro inone,D,D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6875,Paz N.,Como,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4777,McTominay,Napoli,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,2194,Calhanoglu,Inter,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,2167,Or olini,Bologna,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,2423,Puli ic,Milan,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,2379,Rabiot,Milan,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7126,Baturina,Como,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7556,Mora,Roma,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5559,Da Cunha,Como,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,2766,Zaniolo,Udine e,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6908,Atta,Fiorentina,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,1870,Barella,Inter,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4973,McKennie,Juventu,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,632,Zaccagni,Lazio,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,2517,De Bruyne,Napoli,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5687,Vla ic,Torino,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5800,Gudmund on A.,Fiorentina,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7314,Taylor K.,Lazio,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5792,Eder on D.S.,Atalanta,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5119,Samardzic,Atalanta,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7129,Rodriguez Je.,Como,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7436,Alajbegovic,Juventu,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6884,Conceicao,Juventu,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,2606,Modric,Milan,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7078,Ma tantuono,Fiorentina,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6372,Moreira,Milan,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6844,Rowe,Bologna,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5823,Baldanzi,Genoa,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4220,Zambo Angui a,Napoli,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6151,Perrone,Como,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,152,Zielin ki,Inter,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5562,Thuram K.,Juventu,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4892,Saelemaeker,Milan,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,536,Politano,Napoli,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5589,Konè M.,Roma,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5844,Thor tvedt,Sa uolo,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5888,Ca adei,Torino,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6684,Ekkelenkamp,Udine e,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,530,Pellegrini Lo.,Roma,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,2077,Pa alic,Atalanta,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,184,Bernarde chi,Bologna,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,1933,Mandragora,Fiorentina,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5500,Cancellieri,Lazio,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6398,I ak en,Lazio,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6717,Konè I.,Sa uolo,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,2765,Odgaard,Bologna,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4436,Cambiaghi,Bologna,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4465,Fagioli,Fiorentina,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6294,Ndour,Fiorentina,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6274,Diouf,Inter,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7070,Sucic P.,Inter,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,827,Locatelli,Juventu,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5878,Colpani,Monza,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7223,Vergara,Napoli,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,779,Cri tante,Roma,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7551,Schmid,Fro inone,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4364,Gaetano,Atalanta,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5858,Fergu on,Bologna,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6010,Fazzini,Cagliari,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7472,Calò,Fro inone,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5791,Frendrup,Genoa,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,2848,Fratte i,Lazio,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,2741,Pe ina,Monza,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4287,Lobotka,Napoli,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6666,Bernabè,Parma,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5735,Volpato,Sa uolo,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6218,Ori tanio,Torino,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6783,Unai Gomez,Udine e,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5946,Sow,Genoa,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5422,Zalew ki,Atalanta,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5298,Pobega,Bologna,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4870,Adopo,Cagliari,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4260,Wink,Cagliari,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5036,Caqueret,Como,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6678,Liberali,Como,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7464,Oulai,Fiorentina,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6020,Ellert on,Genoa,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5761,Zhegrova,Juventu,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4459,Rovella,Lazio,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5504,Coulibaly L.,Lecce,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6549,Pierotti,Lecce,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4856,Chukwueze,Milan,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6593,Akin anmiro,Monza,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4349,Nicolu i Caviglia,Parma,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6680,Karl trom,Udine e,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5674,Ba ic,Venezia,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7146,Tourè I.,Monza,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7528,Amondarain,Bologna,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7311,Romano,Cagliari,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6640,Felici,Cagliari,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7412,Milla,Como,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7127,Addai,Como,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5998,Zerbin,Fro inone,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7409,Meichtry,Genoa,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,2857,Traorè Hj.,Genoa,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,2529,Mkhitaryan,Inter,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5685,Koopmeiner,Juventu,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6629,Dele-Ba hiru,Lazio,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6015,Beri ha M.,Lecce,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7318,Gandelman,Lecce,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4686,Fofana Y.,Milan,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6898,Keita M.,Parma,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6984,Ondrejka,Parma,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6190,Pi illi,Roma,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,2528,Matic,Sa uolo,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6677,Adzic,Sa uolo,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7036,Bakola,Sa uolo,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7060,Cacciamani,Torino,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6170,Gineiti,Torino,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7198,Piotrow ki,Udine e,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5507,Bu io,Venezia,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5319,Sohm,Venezia,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6994,Perez K.,Venezia,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7550,Grillit ch,Fro inone,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,22,De Roon,Atalanta,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6054,Moro N.,Bologna,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6424,Prati,Cagliari,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6206,Fabbian,Fiorentina,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7473,Cichella,Fro inone,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7474,Kout oupia,Fro inone,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7341,Amorim,Genoa,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5301,Lui  Henrique,Inter,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4911,Dougla  Luiz,Juventu,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,333,Cataldi,Lazio,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7322,Ngom,Lecce,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5453,Ricci S.,Milan,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7203,Ja hari,Milan,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4199,Loftu -Cheek,Milan,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6252,Folorun ho,Napoli,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6207,Almqvi t,Parma,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6271,El Aynaoui,Roma,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7535,Fitz-Jim,Torino,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6005,Ilkhan,Torino,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6827,Njie,Torino,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6024,Sulemana I.,Atalanta,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6895,Dominguez B.,Sa uolo,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,1871,Deiola,Cagliari,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4947,Bre cianini,Fiorentina,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6241,Gelli F.,Fro inone,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6506,Fini,Fro inone,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4970,Me ia,Genoa,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6503,Stankovic A.,Inter,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5813,Miretti,Juventu,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7477,Colombo L.,Monza,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5131,Gilmour,Napoli,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7209,Soren en O.,Parma,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7536,Diallo O.,Parma,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7183,Aboukhlal,Torino,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7208,Miller L.,Udine e,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5872,Helga on,Venezia,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6618,Ci è A.,Milan,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6225,El Azzouzi O.,Bologna,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6815,Fadera,Como,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6903,Ha a,Fro inone,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6917,Ma ini,Fro inone,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6980,Venturino,Genoa,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5457,Maleh,Lecce,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5295,Mu ah,Milan,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5880,Ciurria,Monza,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7138,Ordonez C.,Parma,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6219,Boloca,Sa uolo,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6246,Lipani,Sa uolo,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7418,Chakvetadze,Udine e,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,526,Duncan,Venezia,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7165,Liteta,Cagliari,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7357,Lahdo,Como,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7456,El Azzouzi A.,Fro inone,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5725,Kone B.,Fro inone,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6191,Belahyane,Lazio,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7345,Przyborek,Lazio,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7248,Gorter,Lecce,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6410,Kaba,Lecce,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7319,Fofana Sa.,Lecce,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7276,Crema chi,Parma,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7157,Iannoni,Sa uolo,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5007,Ilic,Torino,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6889,Anjorin,Torino,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7392,Camara A.,Udine e,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6212,Zarraga,Udine e,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5485,Bjarka on,Venezia,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7481,Daga o,Venezia,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6592,For on O.,Monza,C,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,2764,Martinez L.,Inter,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5585,Malen,Roma,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4871,Thuram,Inter,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6052,Hojlund,Napoli,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6397,Ramo  G.,Milan,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5951,Kolo Muani,Juventu,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,2097,Kean,Fiorentina,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6434,Yildiz,Juventu,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7017,Douvika,Como,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,2137,Scamacca,Atalanta,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5637,Davi  K.,Udine e,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6435,Kr tovic,Atalanta,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4510,Leao,Milan,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,531,Berardi,Sa uolo,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5995,De Ketelaere,Atalanta,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6675,Dovbyk,Bologna,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7071,E po ito F.P.,Inter,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7023,Pellegrino M.,Fiorentina,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6060,Laurientè,Sa uolo,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,2061,Simeone,Torino,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7351,Santo  A.,Napoli,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,309,Dybala,Roma,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6572,Ca tro S.,Roma,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4371,Ra padori,Atalanta,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4463,E po ito Se.,Cagliari,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4728,Nkunku,Milan,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,2038,Pinamonti,Sa uolo,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7547,Kevin Carlo,Cagliari,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5734,Soulè,Roma,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7484,Adam  A.,Venezia,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6967,Diao,Como,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4923,Colombo,Genoa,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6229,Tourè E.,Parma,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5672,Dia,Lazio,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7313,Ratkov,Lazio,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,2531,Lukaku,Napoli,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7347,Bowie,Sa uolo,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7554,Romero D.,Parma,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6530,Ghedjemi,Fro inone,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5544,David,Juventu,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5029,Geubbel,Lecce,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,2155,Cutrone,Monza,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6646,Adam  C.,Torino,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6643,Dallinga,Bologna,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4359,Piccoli,Bologna,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6164,Vitinha O.,Genoa,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6904,Yeboah J.,Venezia,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7449,Rrahmani Al.,Venezia,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5436,Raimondo,Fro inone,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6669,Bonny,Inter,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7252,Stulic,Lecce,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,608,Zapata D.,Torino,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5918,Sulemana K.,Atalanta,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6598,Mutandwa,Cagliari,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,2832,Boga,Juventu,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6556,No lin,Lazio,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7008,Gimenez,Milan,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6831,Nere,Napoli,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4896,Maldini,Cagliari,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6519,Camarda,Milan,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,5882,Mota,Monza,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7213,Frigan,Parma,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,4387,Adorante,Venezia,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,2012,Milik,Juventu,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6243,Borrelli,Cagliari,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7374,Mendy P.,Cagliari,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,313,Morata,Como,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6204,Kvernadze,Fro inone,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7453,Havel,Genoa,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7162,Giovane,Napoli,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7349,Kulenovic,Torino,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7272,Gueye,Udine e,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7546,Robin on J.,Monza,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7128,Kuhn,Como,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6822,Ekhator,Juventu,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7001,N'Dri,Lecce,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7523,Varela G.,Monza,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7120,Lang,Napoli,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6215,Lucca,Napoli,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7342,Elphege,Parma,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,383,Petagna,Monza,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7249,Buk a,Udine e,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7338,Albarracin,Cagliari,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7317,Trepy,Cagliari,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7027,Azon,Como,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,6981,Vaz,Roma,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7158,Moro L.,Sa uolo,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7161,Bayo V.,Udine e,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7408,Li man,Venezia,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7482,Lauberbach,Venezia,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7561,Lontani,Parma,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx
+2026/27,7568,De Marti,Parma,A,A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,corrente_pre_stagione,Statistiche_Fantacalcio_Stagione_2026_27.xlsx

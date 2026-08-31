@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Maignan",
+    "role": "P",
+    "team": "Milan",
+    "price": 28,
+    "expected_bonus": 0.2,
+    "expected_malus": 0.3,
+    "availability": 0.86
+  },
+  {
+    "name": "Di Lorenzo",
+    "role": "D",
+    "team": "Napoli",
+    "price": 22,
+    "expected_bonus": 0.8,
+    "expected_malus": 0.2,
+    "availability": 0.9
+  },
+  {
+    "name": "Dimarco",
+    "role": "D",
+    "team": "Inter",
+    "price": 30,
+    "expected_bonus": 1.4,
+    "expected_malus": 0.2,
+    "availability": 0.8
+  },
+  {
+    "name": "Pulisic",
+    "role": "C",
+    "team": "Milan",
+    "price": 31,
+    "expected_bonus": 1.5,
+    "expected_malus": 0.2,
+    "availability": 0.77
+  },
+  {
+    "name": "Zaccagni",
+    "role": "C",
+    "team": "Lazio",
+    "price": 26,
+    "expected_bonus": 1.2,
+    "expected_malus": 0.18,
+    "availability": 0.75
+  },
+  {
+    "name": "Lautaro",
+    "role": "A",
+    "team": "Inter",
+    "price": 58,
+    "expected_bonus": 2.3,
+    "expected_malus": 0.15,
+    "availability": 0.83
+  },
+  {
+    "name": "Lookman",
+    "role": "A",
+    "team": "Atalanta",
+    "price": 41,
+    "expected_bonus": 1.8,
+    "expected_malus": 0.2,
+    "availability": 0.76
+  },
+  {
+    "name": "Gudmundsson",
+    "role": "A",
+    "team": "Fiorentina",
+    "price": 25,
+    "expected_bonus": 1.4,
+    "expected_malus": 0.22,
+    "availability": 0.7
+  }
+]
