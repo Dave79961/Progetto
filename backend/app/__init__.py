@@ -8,14 +8,19 @@ import unicodedata
 
 app = Flask(__name__)
 
+CORS_ORIGINS = [
+    r"^http://localhost(:\d+)?$",
+    r"^http://127\.0\.0\.1(:\d+)?$",
+    r"^https://[a-zA-Z0-9.-]+\.replit\.dev$",
+    r"^https://[a-zA-Z0-9.-]+\.replit\.app$",
+    r"^https://[a-zA-Z0-9.-]+\.repl\.co$",
+]
+
 CORS(
     app,
     resources={
         r"/api/*": {
-            "origins": [
-                "http://localhost:5173",
-                "http://127.0.0.1:5173",
-            ]
+            "origins": CORS_ORIGINS,
         }
     },
 )

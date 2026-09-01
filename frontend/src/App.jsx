@@ -1,6 +1,5 @@
 import React, { useEffect, useMemo, useState } from "react";
 
-var API_URL = "http://127.0.0.1:5000";
 var PAGE_SIZE = 25;
 var STORAGE_KEY_ROSA = "fantacalcio_rosa_2026";
 var STORAGE_KEY_BUDGET = "fantacalcio_budget_2026";
@@ -152,42 +151,27 @@ function exportRosaToCsv(rosa) {
 }
 
 function App() {
-    var activeSection = useState("asta")[0];
-    var setActiveSection = useState("asta")[1];
+    var [activeSection, setActiveSection] = useState("asta");
 
-    var players = useState([])[0];
-    var setPlayers = useState([])[1];
-    var loading = useState(true)[0];
-    var setLoading = useState(true)[1];
-    var errorMessage = useState("")[0];
-    var setErrorMessage = useState("")[1];
+    var [players, setPlayers] = useState([]);
+    var [loading, setLoading] = useState(true);
+    var [errorMessage, setErrorMessage] = useState("");
 
-    var searchText = useState("")[0];
-    var setSearchText = useState("")[1];
-    var selectedRole = useState("Tutti")[0];
-    var setSelectedRole = useState("Tutti")[1];
-    var selectedTeam = useState("Tutte")[0];
-    var setSelectedTeam = useState("Tutte")[1];
-    var currentPage = useState(1)[0];
-    var setCurrentPage = useState(1)[1];
+    var [searchText, setSearchText] = useState("");
+    var [selectedRole, setSelectedRole] = useState("Tutti");
+    var [selectedTeam, setSelectedTeam] = useState("Tutte");
+    var [currentPage, setCurrentPage] = useState(1);
 
-    var rosa = useState([])[0];
-    var setRosa = useState([])[1];
-    var budget = useState(DEFAULT_BUDGET)[0];
-    var setBudget = useState(DEFAULT_BUDGET)[1];
+    var [rosa, setRosa] = useState([]);
+    var [budget, setBudget] = useState(DEFAULT_BUDGET);
 
-    var moduloScelto = useState("3-4-3")[0];
-    var setModuloScelto = useState("3-4-3")[1];
+    var [moduloScelto, setModuloScelto] = useState("3-4-3");
 
-    var nomeLega = useState(getNomeLega())[0];
-    var setNomeLega = useState(getNomeLega())[1];
-    var vincoliLega = useState(getVincoliLega())[0];
-    var setVincoliLega = useState(getVincoliLega())[1];
+    var [nomeLega, setNomeLega] = useState(getNomeLega());
+    var [vincoliLega, setVincoliLega] = useState(getVincoliLega());
 
-    var nomeLegaInput = useState(nomeLega)[0];
-    var setNomeLegaInput = useState(nomeLega)[1];
-    var vincoliInput = useState(mergeObjects({}, vincoliLega))[0];
-    var setVincoliInput = useState(mergeObjects({}, vincoliLega))[1];
+    var [nomeLegaInput, setNomeLegaInput] = useState(nomeLega);
+    var [vincoliInput, setVincoliInput] = useState(mergeObjects({}, vincoliLega));
 
     useEffect(function () {
         async function loadPlayers() {
@@ -195,7 +179,7 @@ function App() {
                 setLoading(true);
                 setErrorMessage("");
 
-                var response = await fetch(API_URL + "/api/auction");
+                var response = await fetch("/api/auction");
 
                 if (!response.ok) {
                     throw new Error("Backend non raggiungibile");

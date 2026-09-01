@@ -1,0 +1,1 @@
+- [Nested app dependency setup](nested-app-dependency-setup.md) — package installation tools may target root manifests when the runnable app is nested.
