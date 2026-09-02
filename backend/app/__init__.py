@@ -5,6 +5,8 @@ import re
 import sqlite3
 import unicodedata
 
+import roster_api
+
 
 app = Flask(__name__)
 
@@ -82,7 +84,7 @@ def clean_text(value):
 
     text = str(value)
     text = text.replace(" ", " ")
-    text = text.replace("’", "'")
+    text = text.replace("â€™", "'")
     text = re.sub(r"s+", " ", text)
 
     return text.strip()
@@ -401,3 +403,61 @@ def get_market_moves():
         "buy_candidates": buy_candidates,
         "sell_candidates": sell_candidates,
     })
+
+
+@app.route("/api/roster", methods=["GET"])
+def roster_get():
+    connection = get_connection()
+    try:
+        summary = roster_api.roster_summary(connection)
+        return jsonify(summary)
+    finally:
+        connection.close()
+
+
+@app.route("/api/roster", methods=["PUT"])
+def roster_update_settings():
+    connection = get_connection()
+    try:
+        payload = roster_api.request_json(request)
+        summary = roster_api.update_settings(connection, payload)
+        return jsonify(summary)
+    except ValueError as error:
+        return jsonify({"error": str(error)}), 400
+    finally:
+        connection.close()
+
+
+@app.route("/api/roster/players", methods=["POST"])
+def roster_add_player():
+    connection = get_connection()
+    try:
+        payload = roster_api.request_json(request)
+        summary = roster_api.add_player(connection, payload)
+        return jsonify(summary), 201
+    except ValueError as error:
+        return jsonify({"error": str(error)}), 400
+    finally:
+        connection.close()
+
+
+@app.route("/api/roster/players/<int:player_id>", methods=["DELETE"])
+def roster_remove_player(player_id):
+    connection = get_connection()
+    try:
+        summary = roster_api.remove_player(connection, player_id)
+        return jsonify(summary)
+    except ValueError as error:
+        return jsonify({"error": str(error)}), 404
+    finally:
+        connection.close()
+
+
+@app.route("/api/roster/clear", methods=["POST"])
+def roster_clear():
+    connection = get_connection()
+    try:
+        summary = roster_api.clear_roster(connection)
+        return jsonify(summary)
+    finally:
+        connection.close()
