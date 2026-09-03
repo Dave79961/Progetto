@@ -5,7 +5,7 @@ import re
 import sqlite3
 import unicodedata
 
-import roster_api
+from . import roster_api
 
 
 app = Flask(__name__)
@@ -93,22 +93,13 @@ def clean_text(value):
 def text_key(value):
     text = clean_text(value).lower()
 
-    text = unicodedata.normalize(
-        "NFD",
-        text
-    )
+    text = unicodedata.normalize("NFD", text)
 
     text = "".join(
-        character
-        for character in text
-        if unicodedata.category(character) != "Mn"
+        character for character in text if unicodedata.category(character) != "Mn"
     )
 
-    text = re.sub(
-        r"[^a-z0-9]",
-        "",
-        text
-    )
+    text = re.sub(r"[^a-z0-9]", "", text)
 
     return text
 
@@ -148,41 +139,26 @@ def get_connection():
 def player_to_dict(row):
     player = dict(row)
 
-    player["nome"] = clean_player_name(
-        player.get("nome")
-    )
+    player["nome"] = clean_player_name(player.get("nome"))
 
-    player["squadra"] = clean_team(
-        player.get("squadra")
-    )
+    player["squadra"] = clean_team(player.get("squadra"))
 
     player["role"] = player.pop("ruolo", "")
     player["team"] = player.pop("squadra", "")
     player["name"] = player.pop("nome", "")
 
-    player["price"] = round(
-        max(
-            1,
-            float(player.get("fantamedia", 0)) * 10
-        ),
-        1
-    )
+    player["price"] = round(max(1, float(player.get("fantamedia", 0)) * 10), 1)
 
-    player["availability"] = min(
-        10,
-        round(
-            float(player.get("presenze", 0)) / 4,
-            1
-        )
-    )
+    player["availability"] = min(10, round(float(player.get("presenze", 0)) / 4, 1))
 
     player["expected_bonus"] = round(
         (
             float(player.get("gol_fatti", 0)) * 3
             + float(player.get("assist", 0))
             + float(player.get("rigori_segnati", 0)) * 3
-        ) / 10,
-        2
+        )
+        / 10,
+        2,
     )
 
     player["expected_malus"] = round(
@@ -191,8 +167,9 @@ def player_to_dict(row):
             + float(player.get("espulsioni", 0))
             + float(player.get("autogol", 0)) * 2
             + float(player.get("rigori_sbagliati", 0)) * 3
-        ) / 10,
-        2
+        )
+        / 10,
+        2,
     )
 
     return player
@@ -235,24 +212,16 @@ def load_current_players(role=None, team=None, search=None):
 
     if search:
         query += " AND LOWER(nome) LIKE ?"
-        parameters.append(
-            f"%{search.lower()}%"
-        )
+        parameters.append(f"%{search.lower()}%")
 
     query += " ORDER BY ruolo, nome"
 
     connection = get_connection()
 
     try:
-        rows = connection.execute(
-            query,
-            parameters
-        ).fetchall()
+        rows = connection.execute(query, parameters).fetchall()
 
-        return [
-            player_to_dict(row)
-            for row in rows
-        ]
+        return [player_to_dict(row) for row in rows]
     finally:
         connection.close()
 
@@ -270,12 +239,14 @@ def health_check():
             "SELECT COUNT(*) FROM player_history"
         ).fetchone()[0]
 
-        return jsonify({
-            "status": "ok",
-            "current_players_loaded": current_count,
-            "history_records_loaded": history_count,
-            "database": str(DATABASE_PATH),
-        })
+        return jsonify(
+            {
+                "status": "ok",
+                "current_players_loaded": current_count,
+                "history_records_loaded": history_count,
+                "database": str(DATABASE_PATH),
+            }
+        )
     finally:
         connection.close()
 
@@ -292,10 +263,12 @@ def get_current_players():
         search=search,
     )
 
-    return jsonify({
-        "count": len(players),
-        "items": players,
-    })
+    return jsonify(
+        {
+            "count": len(players),
+            "items": players,
+        }
+    )
 
 
 @app.route("/api/players/history/<int:player_id>")
@@ -310,17 +283,16 @@ def get_player_history(player_id):
             WHERE player_id = ?
             ORDER BY stagione DESC
             """,
-            (player_id,)
+            (player_id,),
         ).fetchall()
 
-        return jsonify({
-            "player_id": player_id,
-            "count": len(rows),
-            "items": [
-                player_to_dict(row)
-                for row in rows
-            ],
-        })
+        return jsonify(
+            {
+                "player_id": player_id,
+                "count": len(rows),
+                "items": [player_to_dict(row) for row in rows],
+            }
+        )
     finally:
         connection.close()
 
@@ -337,15 +309,14 @@ def get_auction_rankings():
         search=search,
     )
 
-    ranked_players = sorted(
-        players,
-        key=ranking_key
-    )
+    ranked_players = sorted(players, key=ranking_key)
 
-    return jsonify({
-        "count": len(ranked_players),
-        "items": ranked_players,
-    })
+    return jsonify(
+        {
+            "count": len(ranked_players),
+            "items": ranked_players,
+        }
+    )
 
 
 @app.route("/api/lineup")
@@ -362,24 +333,19 @@ def get_suggested_lineup():
     lineup = []
 
     for role, count in roles_order:
-        candidates = [
-            player
-            for player in players
-            if player.get("role") == role
-        ]
+        candidates = [player for player in players if player.get("role") == role]
 
-        candidates = sorted(
-            candidates,
-            key=ranking_key
-        )
+        candidates = sorted(candidates, key=ranking_key)
 
         lineup.extend(candidates[:count])
 
-    return jsonify({
-        "count": len(lineup),
-        "formation": "3-4-3",
-        "items": lineup,
-    })
+    return jsonify(
+        {
+            "count": len(lineup),
+            "formation": "3-4-3",
+            "items": lineup,
+        }
+    )
 
 
 @app.route("/api/market")
@@ -393,16 +359,16 @@ def get_market_moves():
     )
 
     buy_candidates = ranked_players[:15]
-    sell_candidates = list(
-        reversed(ranked_players[-15:])
-    )
+    sell_candidates = list(reversed(ranked_players[-15:]))
 
-    return jsonify({
-        "players_evaluated": len(players),
-        "candidates_per_list": 15,
-        "buy_candidates": buy_candidates,
-        "sell_candidates": sell_candidates,
-    })
+    return jsonify(
+        {
+            "players_evaluated": len(players),
+            "candidates_per_list": 15,
+            "buy_candidates": buy_candidates,
+            "sell_candidates": sell_candidates,
+        }
+    )
 
 
 @app.route("/api/roster", methods=["GET"])
