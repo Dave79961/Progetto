@@ -1,10 +1,13 @@
 from flask import Flask, jsonify, request
+from werkzeug.utils import secure_filename
 from flask_cors import CORS
 from pathlib import Path
 import re
 import sqlite3
 import unicodedata
+import tempfile
 
+from excel_importer import backup_database, read_excel_players, replace_current_players
 from . import roster_api
 
 
@@ -427,3 +430,115 @@ def roster_clear():
         return jsonify(summary)
     finally:
         connection.close()
+
+from werkzeug.utils import secure_filename
+import tempfile
+
+from excel_importer import (
+    backup_database,
+    read_excel_players,
+    replace_current_players,
+)
+
+
+def save_uploaded_excel():
+    uploaded_file = request.files.get("file")
+
+    if uploaded_file is None or uploaded_file.filename == "":
+        raise ValueError("Seleziona un file Excel prima di continuare.")
+
+    filename = secure_filename(uploaded_file.filename)
+
+    if not filename.lower().endswith(".xlsx"):
+        raise ValueError("Il file deve avere estensione .xlsx.")
+
+    temporary_file = tempfile.NamedTemporaryFile(
+        suffix=".xlsx",
+        delete=False,
+    )
+    temporary_path = Path(temporary_file.name)
+    temporary_file.close()
+
+    uploaded_file.save(temporary_path)
+
+    return temporary_path, filename
+
+
+@app.route("/api/import/preview", methods=["POST"])
+def import_preview():
+    temporary_path = None
+
+    try:
+        temporary_path, filename = save_uploaded_excel()
+        players, summary = read_excel_players(temporary_path)
+
+        return jsonify(
+            {
+                "ok": True,
+                "file_name": filename,
+                "preview_players": players[:10],
+                **summary,
+            }
+        )
+
+    except ValueError as error:
+        return jsonify({"ok": False, "error": str(error)}), 400
+
+    except Exception as error:
+        return jsonify(
+            {
+                "ok": False,
+                "error": "Errore durante l'analisi: " + str(error),
+            }
+        ), 500
+
+    finally:
+        if temporary_path is not None and temporary_path.exists():
+            temporary_path.unlink()
+
+
+@app.route("/api/import/confirm", methods=["POST"])
+def import_confirm():
+    temporary_path = None
+
+    try:
+        temporary_path, filename = save_uploaded_excel()
+        players, summary = read_excel_players(temporary_path)
+
+        if not players:
+            return jsonify(
+                {
+                    "ok": False,
+                    "error": "Nessun giocatore valido da importare.",
+                }
+            ), 400
+
+        backup_path = backup_database()
+        imported_count = replace_current_players(players)
+
+        return jsonify(
+            {
+                "ok": True,
+                "message": "Listone aggiornato correttamente.",
+                "file_name": filename,
+                "imported_count": imported_count,
+                "backup_file": backup_path.name,
+                **summary,
+            }
+        )
+
+    except ValueError as error:
+        return jsonify({"ok": False, "error": str(error)}), 400
+
+    except Exception as error:
+        return jsonify(
+            {
+                "ok": False,
+                "error": "Errore durante l'importazione: " + str(error),
+            }
+        ), 500
+
+    finally:
+        if temporary_path is not None and temporary_path.exists():
+            temporary_path.unlink()
+
